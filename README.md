@@ -61,5 +61,10 @@ Sales analytics plays a vital role in helping organizations track and evaluate t
 
   This task involves designing automated Excel-based reports that present a detailed summary of the company’s financial outcomes, including income, expenses, and profitability across different fiscal periods. These reports offer actionable insights into overall financial stability and serve as a valuable tool for informed strategic and operational decision-making.
 
+   --> Report : https://github.com/dharsoumyadeep96/Excel-Sales-Finance-Analytics/blob/c38b5d4edebe49292bd195eff49c85531e3d9c90/P%20%26%20L%20Report.pdf
+   
    --> Report : https://github.com/dharsoumyadeep96/Excel-Sales-Finance-Analytics/blob/940feff24f9d6ef16e7839ea98a0f103ecd2552a/P%20%26%20L%20Report%20by%20Fiscal%20Year.pdf
 
+   
+
+   
