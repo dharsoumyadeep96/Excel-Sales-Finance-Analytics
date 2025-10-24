@@ -69,10 +69,34 @@ Sales analytics plays a vital role in helping organizations track and evaluate t
 
  This initiative focuses on developing P&L reports categorized by specific markets or regions. Through the analysis of revenue streams, expenses, and profit margins within each segment, decision-makers can identify high-performing areas and underperforming markets. These insights enable focused strategic actions to enhance efficiency, strengthen market position, and improve overall profitability.
 
- 
-   --> Report :
- 
+   --> Report : https://github.com/dharsoumyadeep96/Excel-Sales-Finance-Analytics/blob/8deb30ff81283b9e3b83ea01f746ca2d450bd1ec/P%20%26%20L%20statement%20by%20Market.pdf
 
-   
+   --> Report : https://github.com/dharsoumyadeep96/Excel-Sales-Finance-Analytics/blob/8deb30ff81283b9e3b83ea01f746ca2d450bd1ec/P%20%26%20L%20Report.pdf
+
+   --> Report : https://github.com/dharsoumyadeep96/Excel-Sales-Finance-Analytics/blob/8deb30ff81283b9e3b83ea01f746ca2d450bd1ec/P%20%26%20L%20Report%20by%20Fiscal%20Year.pdf
+
+
+   - [x]  Significance of Financial Data Analysis:
+
+Analyzing financial data enables the organization to evaluate its performance over time and benchmark results against industry standards. This process supports accurate budgeting, forecasting, and long-term financial planning, empowering leadership to make data-driven decisions that enhance overall financial stability and strategic growth.
+
+   - [x]  Purpose of Financial Reports:
+
+→ The reports developed in this project bridge the gap between financial analysis and strategic decision-making. By presenting essential metrics and performance trends in a structured and visually clear Excel format, these reports enhance transparency, support informed planning, and build confidence in the organization’s financial direction.
+
+## 💼 Business Inquiries:
+  - [x]  Busineaa Inquiries are listed below
+
+  - [x] What are the top 10 products based on the percentage increase in their net sales from 2020 to 2021?
+  
+  - [x] Generate a "Division" report to present the net sales data for 2020 and 2021, along with the growth percentage.
+  
+  - [x] Which products are ranked in the top 5 and bottom 5 in terms of quantity sold?
+  
+  - [x] What are the new products that Atliq began selling in 2021?
+ 
+  - [x] What are the top 5 countries in terms of net sales in 2021?
+
+ --> Here are the Business Inquiries answers:       
 
    
