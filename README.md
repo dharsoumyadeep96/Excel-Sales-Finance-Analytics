@@ -97,6 +97,12 @@ Analyzing financial data enables the organization to evaluate its performance ov
  
   - [x] What are the top 5 countries in terms of net sales in 2021?
 
- --> Here are the Business Inquiries answers:       
+ --> Here are the Business Inquiries answers: https://github.com/dharsoumyadeep96/Excel-Sales-Finance-Analytics/blob/f3cecc6dfe3f0862120cee10d4b581b5909ee324/Business%20inquiries.pdf
+
+##🌟 Insights and Recommendations:
+
+ - [x] Insights offer a detailed evaluation of AtliQ Hardwares’ overall business performance, while recommendations serve as actionable guidance to support data-driven strategies, ensuring continued growth and long-term profitability.
+
+--> Check it out here : 
 
    
