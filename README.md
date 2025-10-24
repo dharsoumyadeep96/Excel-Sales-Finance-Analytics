@@ -65,6 +65,14 @@ Sales analytics plays a vital role in helping organizations track and evaluate t
    
    --> Report : https://github.com/dharsoumyadeep96/Excel-Sales-Finance-Analytics/blob/940feff24f9d6ef16e7839ea98a0f103ecd2552a/P%20%26%20L%20Report%20by%20Fiscal%20Year.pdf
 
+   - [x] Generate Market-Wise Profit and Loss (P&L) Reports:
+
+ This initiative focuses on developing P&L reports categorized by specific markets or regions. Through the analysis of revenue streams, expenses, and profit margins within each segment, decision-makers can identify high-performing areas and underperforming markets. These insights enable focused strategic actions to enhance efficiency, strengthen market position, and improve overall profitability.
+
+ 
+   --> Report :
+ 
+
    
 
    
