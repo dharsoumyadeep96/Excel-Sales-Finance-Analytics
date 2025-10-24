@@ -1,8 +1,8 @@
-## 🔎 Project Overview📋:
+## 🔎 Project Overview 
 
 AtliQ Hardware’s financial and sales data were recently analysed through an intensive analytics project. The organization’s reputation for innovation and customer-centricity has prompted focused examination of its business metrics.
 
-## 🧰 Tools & Technologies Utilized:-
+## 🧰 Tools & Technologies Utilized
 
 - [x] Microsoft Excel 
 
@@ -19,7 +19,7 @@ AtliQ Hardware’s financial and sales data were recently analysed through an in
 - [x] ETL (Extract, Transform, Load) process for seamless data integration
 
 
-## 📊 Sales Report :
+## 📊 Sales Report 
 
 - [x] Project Overview:
       
@@ -84,7 +84,7 @@ Analyzing financial data enables the organization to evaluate its performance ov
 
 → The reports developed in this project bridge the gap between financial analysis and strategic decision-making. By presenting essential metrics and performance trends in a structured and visually clear Excel format, these reports enhance transparency, support informed planning, and build confidence in the organization’s financial direction.
 
-## 💼 Business Inquiries:
+## 💼 Business Inquiries
   - [x]  Busineaa Inquiries are listed below
 
   - [x] What are the top 10 products based on the percentage increase in their net sales from 2020 to 2021?
@@ -99,10 +99,38 @@ Analyzing financial data enables the organization to evaluate its performance ov
 
  --> Here are the Business Inquiries answers: https://github.com/dharsoumyadeep96/Excel-Sales-Finance-Analytics/blob/f3cecc6dfe3f0862120cee10d4b581b5909ee324/Business%20inquiries.pdf
 
-##🌟 Insights and Recommendations:
+##🌟 Insights and Recommendations
 
  - [x] Insights offer a detailed evaluation of AtliQ Hardwares’ overall business performance, while recommendations serve as actionable guidance to support data-driven strategies, ensuring continued growth and long-term profitability.
 
---> Check it out here : 
+--> Check it out here : https://github.com/dharsoumyadeep96/Excel-Sales-Finance-Analytics/blob/970bf8512fc4369055d9ccb70a2bf526d5217ae5/Insights-and-Recommendations.pdf
+
+
+## ⚙️ Technical Skills
+
+- [x] Experienced in applying the ETL (Extract, Transform, Load) process for streamlined and accurate data handling.
+
+- [x]  Skilled in creating detailed date tables through Power Query, enabling precise time intelligence and trend analysis.
+
+- [x]  Adept at calculating fiscal months and quarters to ensure financial reporting aligns with business objectives.
+
+- [x]  Proficient in developing robust data model relationships using Power Pivot to strengthen analytical depth and performance.
+
+- [x]  Capable of integrating multiple external data sources into unified models to enhance data completeness and reporting quality.
+
+- [x]  Utilizes DAX (Data Analysis Expressions) to build dynamic measures and calculated columns for advanced business analytics.
+
+
+## 🤝 Soft Skills
+
+- [x]  Strong ability to interpret Sales and Finance reports, translating complex data into clear, actionable insights.
+
+- [x]  Designs intuitive and visually engaging reports that prioritize stakeholder understanding and user experience.
+
+- [x]  Streamlines report creation processes through careful optimization, improving accuracy and efficiency.
+
+- [x]  Implements a structured approach to report development, ensuring consistency and reliability in outputs.
+
+- [x]  Skilled at communicating insights and recommendations effectively, supporting data-driven decision-making.
 
    
