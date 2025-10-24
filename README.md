@@ -38,7 +38,7 @@ Sales analytics plays a vital role in helping organizations track and evaluate t
   
  This task focuses on evaluating actual sales results against established targets across various market segments. By examining the gap between projected and achieved sales, organizations can pinpoint high-performing areas and those needing improvement, refine their sales strategies, and leverage opportunities for growth. Such analysis supports data-driven decision-making to enhance overall sales effectiveness and meet business objectives.
 
- --> Report :
+ --> Report : https://github.com/dharsoumyadeep96/Excel-Sales-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf
 
 
 - [x] Significance of Sales Data Analysis:
@@ -46,8 +46,20 @@ Sales analytics plays a vital role in helping organizations track and evaluate t
  Examining sales data is crucial for uncovering trends and patterns that reveal customer preferences and buying behavior. Tracking key metrics such as conversion rates, customer acquisition costs, and revenue per segment enables organizations to evaluate sales performance, refine strategies, and drive growth while maximizing profitability and market reach.
 
 
-- [x]Purpose of Sales Reports:
+- [x] Purpose of Sales Reports:
 
  Reports derived from sales analytics serve as a key decision-making tool across various aspects of business operations. They assist in formulating optimal pricing and discount strategies, support customer negotiations with factual insights, and uncover potential markets for expansion by examining consumer behavior and market dynamics. These analytical reports empower organizations to make strategic, data-driven decisions that foster sustainable business growth.
 
+
+## 💰 Finance Report
+
+- [x] Project Overview:
+
+ The objective of this project is to assess the organization’s financial health and performance by leveraging data analysis in Excel. The report provides valuable insights that support strategic planning, improve financial transparency, and strengthen communication with key stakeholders through clear, data-driven reporting.
+
+ - [x] Develop Profit and Loss (P&L) Statements by Fiscal Year and Month:
+
+  This task involves designing automated Excel-based reports that present a detailed summary of the company’s financial outcomes, including income, expenses, and profitability across different fiscal periods. These reports offer actionable insights into overall financial stability and serve as a valuable tool for informed strategic and operational decision-making.
+
+   --> Report :
 
