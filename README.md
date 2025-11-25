@@ -1,3 +1,7 @@
+## AtliQ Hardwares SALES FINANCE Analytics Project
+
+- [x] Executed an end-to-end Excel project, starting from data import and transformation to developing interactive dashboards and presenting key performance insights to stakeholders.
+
 ## 🔎 Project Overview 
 
 AtliQ Hardware’s financial and sales data were recently analysed through an intensive analytics project. The organization’s reputation for innovation and customer-centricity has prompted focused examination of its business metrics.
