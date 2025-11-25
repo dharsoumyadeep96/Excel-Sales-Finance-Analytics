@@ -4,7 +4,6 @@
 
 - [x] Executed an end-to-end Excel project, starting from data import and transformation to developing interactive dashboards and presenting key performance insights to stakeholders.
 
-![Uploading image.png…]()
 
 ## 🔎 Project Overview 
 
