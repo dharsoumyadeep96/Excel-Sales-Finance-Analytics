@@ -1,5 +1,6 @@
 ## AtliQ Hardware's SALES & FINANCE Analytics Project
 
+### Domain -FMCG (Fast-Moving Consumer Goods)
 ### Linkedin post:- https://www.linkedin.com/posts/soumyadeep-dhar-785724333_atliq-hardwares-project-activity-7387714486532534272-AKWJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFPvRVUBwUWqwxWutabazGQxfz-C24G5c4M
 
 - [x] Executed an end-to-end Excel project, starting from data import and transformation to developing interactive dashboards and presenting key performance insights to stakeholders.
